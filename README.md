@@ -1,8 +1,7 @@
-# grep command works when quotations are not used for example
+# C - Shell Implementation
 #
-# EXAMPLE
-#        ----> grep Makefile < directory.txt
+# run "# make clean"
+# run "# make "
+# run "./pssh "
 #
 #
-#
-# awk command is a bit weird and errors are generated - still trying to figure this out 
