@@ -1,7 +1,9 @@
 # C - Shell Implementation
-#
-# run "# make clean"
-# run "# make "
-# run "./pssh "
+# 
+# To run, type the following commands
+# 
+# make clean
+# make
+# ./pssh
 #
 #
